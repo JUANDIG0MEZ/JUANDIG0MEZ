@@ -26,6 +26,8 @@
 
 ---
 
+
+[![](https://visitcount.itsvg.in/api?id=JUANDIG0MEZ&icon=1&color=13)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
