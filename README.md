@@ -10,3 +10,8 @@
 [![](https://visitcount.itsvg.in/api?id=JUANDIG0MEZ&icon=1&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="dist/github-contribution-grid-snake.svg" />
+</picture>
