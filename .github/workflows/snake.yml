@@ -25,6 +25,7 @@ jobs:
           # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
           # Define the output files and their configurations
+          speed: 1
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
