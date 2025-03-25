@@ -25,9 +25,11 @@
 </p>
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANDIG0MEZ&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
+</picture>
