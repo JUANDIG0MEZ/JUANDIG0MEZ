@@ -27,7 +27,8 @@
 ---
 
 
-[![](https://visitcount.itsvg.in/api?id=JUANDIG0MEZ&icon=1&color=13)](https://visitcount.itsvg.in)
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JUANDIG0MEZ)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
