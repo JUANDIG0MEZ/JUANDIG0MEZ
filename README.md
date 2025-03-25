@@ -34,9 +34,11 @@
 
 
 
-###
+---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/juandig0mez/count.svg?"  />
+  <h3>👀 Profile Views</h3>
+  <p>Number of visitors to my profile:</p>
+  <img src="https://profile-counter.glitch.me/juandig0mez/count.svg?" />
 </div>
-###
+
