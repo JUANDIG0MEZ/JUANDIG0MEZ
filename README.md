@@ -25,7 +25,7 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=JUANDIG0MEZ&icon=1&color=13)](https://visitcount.itsvg.in
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JUANDIG0MEZ&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
