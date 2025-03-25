@@ -26,12 +26,6 @@
 
 ---
 
-
-![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/JUANDIG0MEZ)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
@@ -45,7 +39,4 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/juandig0mez/count.svg?"  />
 </div>
-
-###
-
 ###
