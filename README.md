@@ -25,15 +25,9 @@
 </p>
 
 ---
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=JUANDIG0MEZ&icon=1&color=13" />
-  </a>
-</p>
+[![](https://visitcount.itsvg.in/api?id=JUANDIG0MEZ&icon=1&color=13)](https://visitcount.itsvg.in
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
-</picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
