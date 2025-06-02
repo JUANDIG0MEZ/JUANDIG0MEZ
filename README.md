@@ -32,13 +32,6 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANDIG0MEZ&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
-</p>
-
 ---
 
 <picture>
