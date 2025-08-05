@@ -39,8 +39,3 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
 </picture>
 
-<div align="center">
-  <h3>👀 Profile Views</h3>
-  <p>Number of visitors to my profile:</p>
-  <img src="https://profile-counter.glitch.me/juandig0mez/count.svg?" />
-</div>
