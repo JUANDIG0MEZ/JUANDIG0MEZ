@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white" />
 </p>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=juandiegogomezdev&theme=default&show_icons=true&hide_border=true&layout=compact)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juandig0mez/juandig0mez/output/github-snake.svg" />
